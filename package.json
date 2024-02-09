@@ -5,7 +5,7 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "rimraf .env package-lock.json node_modules"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KadenHD/test_fastify_js/issues"
   },
-  "homepage": "https://github.com/KadenHD/test_fastify_js#readme"
+  "homepage": "https://github.com/KadenHD/test_fastify_js#readme",
+  "devDependencies": {
+    "rimraf": "^5.0.5"
+  }
 }
