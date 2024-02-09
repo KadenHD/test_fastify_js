@@ -1,5 +1,5 @@
 {
-  "name": "test_express_js",
+  "name": "test_fastify_js",
   "version": "1.0.0",
   "description": "A Testing zone to enhance my knowledge in API structure.",
   "type": "module",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KadenHD/test_express_js.git"
+    "url": "git+https://github.com/KadenHD/test_fastify_js.git"
   },
   "author": "KadenHD",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KadenHD/test_express_js/issues"
+    "url": "https://github.com/KadenHD/test_fastify_js/issues"
   },
-  "homepage": "https://github.com/KadenHD/test_express_js#readme"
+  "homepage": "https://github.com/KadenHD/test_fastify_js#readme"
 }
