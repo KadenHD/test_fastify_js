@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run dev",
     "dev": "nodemon",
-    "clean": "rimraf .env package-lock.json node_modules"
+    "clean": "rimraf .env node_modules"
   },
   "repository": {
     "type": "git",
